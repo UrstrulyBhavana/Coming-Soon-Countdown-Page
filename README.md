@@ -45,3 +45,5 @@ A beautifully designed **Coming Soon Page** with a countdown timer to showcase y
    var countDownDate = new Date("Oct 16, 2021 05:05:00").getTime();
 
 ## Demo.gif
+
+![Image](https://github.com/user-attachments/assets/7e8912cf-d674-4b84-a825-b6d2feeef45a)
