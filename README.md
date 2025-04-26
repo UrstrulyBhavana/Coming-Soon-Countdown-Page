@@ -1,5 +1,13 @@
 # 🚀 Coming Soon Page
 
+---
+
+## Demo.gif
+
+![Image](https://github.com/user-attachments/assets/7e8912cf-d674-4b84-a825-b6d2feeef45a)
+
+---
+
 A beautifully designed **Coming Soon Page** with a countdown timer to showcase your website's upcoming launch. It features a responsive layout, animated elements, and an intuitive interface to keep your audience engaged while the website is under maintenance.
 
 ---
@@ -44,6 +52,28 @@ A beautifully designed **Coming Soon Page** with a countdown timer to showcase y
    ```javascript
    var countDownDate = new Date("Oct 16, 2021 05:05:00").getTime();
 
-## Demo.gif
+---
 
-![Image](https://github.com/user-attachments/assets/7e8912cf-d674-4b84-a825-b6d2feeef45a)
+🙋‍♀️ Author
+Linga Bhavana – Frontend Developer
+
+GitHub | urstrulybhavana1432@gmail.com
+
+---
+
+
+📬 **Contact**
+
+For questions or suggestions, feel free to reach out:
+
+- 📧 **Email**: [urstrulybhavana1432@gmail.com](mailto:urstrulybhavana1432@gmail.com)  
+- 🐙 **GitHub**: [UrstrulyBhavana](https://github.com/UrstrulyBhavana)
+
+
+---
+
+📜 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+
